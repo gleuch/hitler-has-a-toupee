@@ -1,8 +1,8 @@
-# Hitler has a toupe
+# Hitler has a toupee
 
 __Version 0.0.1__ : TBD
 
-A Google Chrome extension to show the ugly under the touple.
+A Google Chrome extension to show the ugly under the toupee. 
 
 Created by [Greg Leuch][gleuch]. Requested by everyone.
 
